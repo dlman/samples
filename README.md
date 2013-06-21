@@ -3,6 +3,7 @@ samples
 code samples:
 
 morabot: simple twitter bot
+a youtube video if you don't get the reference: http://www.youtube.com/watch?v=U7fjDS0jKiE
 
 ncibgrabber: script I made to extract piR numbers from NCBI database
 
